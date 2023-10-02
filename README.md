@@ -3,7 +3,7 @@
  Contact
 You can reach out to me via email at vidhijain7.tkj.12@gmail.com 📩.
 
-Feel free to connect with me on LinkedIn 🔗 or follow me on Twitter 🐦 for updates on my coding journey.
+Feel free to connect with me on[LinkedIn](https://www.linkedin.com/in/vidhijain95/) 🔗 or follow me on[Twitter](https://twitter.com/jainvidhi_) 🐦 for updates on my coding journey.
 
 Thank you for visiting my GitHub repository, and I look forward to collaborating and sharing knowledge with the coding community! 🙌✨
 
